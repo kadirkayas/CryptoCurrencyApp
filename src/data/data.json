@@ -1,0 +1,20 @@
+[
+    {
+        "id":"bitcoin"
+    },
+    {
+        "id": "ethereum"
+    },
+    {
+        "id": "dogecoin"
+    },
+    {
+        "id": "solana"
+    },
+    {
+        "id": "polkadot"
+    },
+    {
+        "id": "litecoin"
+    }
+]

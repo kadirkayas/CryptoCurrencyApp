@@ -1,0 +1,12 @@
+img{
+    width: 50px;
+}
+.coin-name{
+    font-size: 20px;
+}
+.coin-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
